@@ -1,10 +1,7 @@
 # Self-Study Guide for ML and Deep Learning
 
 A no-bullshit personal guide that assumes competence in multivariable calculus, linear algebra, and machine-learning basics.
-
-## Advice
-[from Author of Keras](https://www.quora.com/What-advice-would-you-give-to-people-studying-ML-DL-from-MOOCs-Udacity-Coursera-edx-MIT-Opencourseware-or-from-books-in-their-own-time/answer/Fran%C3%A7ois-Chollet)
-
+[Advice from the author of Keras](https://www.quora.com/What-advice-would-you-give-to-people-studying-ML-DL-from-MOOCs-Udacity-Coursera-edx-MIT-Opencourseware-or-from-books-in-their-own-time/answer/Fran%C3%A7ois-Chollet)
 
 ## Intro Machine learning examples
 - [Part 2: Generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
@@ -25,13 +22,15 @@ A no-bullshit personal guide that assumes competence in multivariable calculus, 
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
     - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
-## Physical Books
+## Classic Books
 - Hastie, Tibshirani, and Friedman's [The Elements of Statistical Learning](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)
 - Bishop's [Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
 - Kevin Murphy's [Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
 - David Barber's [Bayesian Reasoning and Machine Learning free pdf](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/020217.pdf)
 - Mitchell's [Machine Learning](https://www.goodreads.com/book/show/213030.Machine_Learning)
-^^^ those five are recommended by [Xavier Amatriain](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) and are highly rated.
+
+^^^ those five are recommended by [Xavier Amatriain](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) and others and are highly rated.
+
 Others:
   - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130) and [Github](https://github.com/rasbt/python-machine-learning-book)
 
@@ -42,6 +41,7 @@ Others:
     - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Paul G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
+
 - University courses
     - [CMU machine learning course - intro level](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
     - [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
@@ -49,9 +49,11 @@ Others:
 
 ## Deep Learning
 - [How to start learning deep learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
-Free Ebooks:
+
+Free Classic Ebooks:
 - Yoshua Bengio's [Deep Learning](http://www.deeplearningbook.org/)
 - Nielson's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
 Classes:
 - [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 - [Udacity: Deep Learning](https://classroom.udacity.com/courses/ud730)
