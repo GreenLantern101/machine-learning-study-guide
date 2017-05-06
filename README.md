@@ -1,6 +1,6 @@
-# Machine Learning and Deep Learning
+# Self-Study Guide for Machine Learning and Deep Learning
 
-This is a leaner, more advanced, fork of [ZuzooVn's guide](https://github.com/ZuzooVn/machine-learning-for-software-engineers) that assumes basic competence in multivariable calculus, linear algebra, and machine-learning basics.
+This is a no-bullshit personal guide, inspired by [ZuzooVn's guide](https://github.com/ZuzooVn/machine-learning-for-software-engineers) that assumes basic competence in multivariable calculus, linear algebra, and machine-learning basics.
 
 ## Intro Machine learning examples
 - [ ] [Part 2: Generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
@@ -10,6 +10,11 @@ This is a leaner, more advanced, fork of [ZuzooVn's guide](https://github.com/Zu
 - [ ] [Part 6: Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 - [ ] [Part 7: Using GANs to make art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
 - [ ] [Deep Learning the stock market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
+
+## Short video series
+- [ ] [Neural Networks, Demystified](http://lumiverse.io/series/neural-networks-demystified)
+- [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
+- [ ] [Imbalanced Data sets](https://www.youtube.com/watch?v=X9MZtvvQDR4)
 
 ## Free Ebooks
 - [ ] [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
@@ -24,26 +29,20 @@ This is a leaner, more advanced, fork of [ZuzooVn's guide](https://github.com/Zu
 - [ ] [Learning from Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069)
 - [ ] [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130)
 
-## Short video series
-- [ ] [Neural Networks, Demystified](http://lumiverse.io/series/neural-networks-demystified)
-- [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
-- [ ] [Imbalanced Data sets](https://www.youtube.com/watch?v=X9MZtvvQDR4)
-
 ## Classes
 - [ ] [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Udacity: Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Udacity: Deep Learning](https://classroom.udacity.com/courses/ud730)
-
 - [ ] [Andrew Ng's Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
     - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
     - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
-- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info)
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
-
 - [ ] [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-
 - [ ] [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [ ] [Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
+
+- [ ] [Paul G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
 
 - Full University courses
     - [ ] [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
@@ -51,11 +50,6 @@ This is a leaner, more advanced, fork of [ZuzooVn's guide](https://github.com/Zu
     - [ ] [Stanford CS224D - Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 
 ## List of resource lists & Misc.
-- [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
-- [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
-- [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
-- [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
-- [DigitalMind's Artificial Intelligence resources](http://blog.digitalmind.io/post/artificial-intelligence-resources)
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 - [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 
