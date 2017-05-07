@@ -4,23 +4,7 @@ A no-bullshit personal guide that assumes competence in multivariable calculus, 
 [Advice from the author of Keras](https://www.quora.com/What-advice-would-you-give-to-people-studying-ML-DL-from-MOOCs-Udacity-Coursera-edx-MIT-Opencourseware-or-from-books-in-their-own-time/answer/Fran%C3%A7ois-Chollet)
 
 ## Libraries
-ML
-  - scikit-learn
-  - AirBnB's [aerosolve](https://github.com/airbnb/aerosolve)
-
-Neural networks/deep-learning
-  - [Keras](https://github.com/fchollet/keras) (high level)
-    - [Theano vs. TensorFlow backend](https://www.quora.com/Do-you-recommend-using-Theano-or-Tensor-Flow-as-Keras-backend)
-  - [TFLearn](https://github.com/tflearn/tflearn) - high-level API for deep-learning w/ TensorFlow
-  - Google's [Sonnet](https://github.com/deepmind/sonnet) - Tensorflow-based neural network library
-  - UC Berkeley's [Caffe](https://github.com/BVLC/caffe)
-  - Facebook's [Torch](http://torch.ch/) - losing popularity?
-  - [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano
-  - [nolearn](https://github.com/dnouri/nolearn) - scikit-learn compatible neural network library, wrapper around Lasagne
-
-Low-level math libraries:
-  - Google's [TensorFlow](https://github.com/tensorflow/tensorflow) (lower level)
-  - [Theano](https://github.com/Theano/Theano) (very low level)
+[Popular Libraries](lib.md)
 
 ## Cool Examples
 - [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
@@ -90,16 +74,4 @@ Classes:
 ## List of resource lists & Misc.
 - Todo: to get a deep understanding of algorithms, implement them from scratch (start w/ logistic regression & k-means, work to more complicated & interesting algorithms)
 - eg. [A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
-
-
-## Interview Questions
-- [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
-- [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science)
-- [21 Must-Know Data Science Interview Questions and Answers](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
-- [Top 50 Machine learning Interview questions & Answers](http://career.guru99.com/top-50-interview-questions-on-machine-learning/)
-- [Machine Learning Engineer interview questions](https://resources.workable.com/machine-learning-engineer-interview-questions)
-- [Popular Machine Learning Interview Questions](http://www.learn4master.com/machine-learning/popular-machine-learning-interview-questions)
-- [What are some common Machine Learning interview questions?](https://www.quora.com/What-are-some-common-Machine-Learning-interview-questions)
-- [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
-- [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
-- [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
+- [Interview Questions](test.md)
