@@ -14,7 +14,6 @@ A no-bullshit personal guide that assumes competence in multivariable calculus, 
 
 ## Short video series
 - [Neural Networks, Demystified](http://lumiverse.io/series/neural-networks-demystified)
-- [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [Imbalanced Data sets](https://www.youtube.com/watch?v=X9MZtvvQDR4)
 
 ## Free Ebooks
@@ -55,7 +54,11 @@ Blogs:
   - post on [Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
 
 Notes:
-- types of ANNs(articifial neural networks): RBF networks, convolutional networks, RNNs (recurrent neural networks), GANs (Generative Adversarial Networks)
+- DL subcategories, as stated by [Andrew Ng's Nuts and Bolts of Applying Deep Learning talk](https://www.youtube.com/watch?v=F1ka6a13S9I):
+  1. General DL - RBF networks, feed-forward dense networks
+  2. 1D recurrent models -  RNNs (recurrent neural networks), LSTMs
+  3. Image stuff (2D/3D) - CNNs
+  4. Other GANs(Generative Adversarial Networks)
 
 Free Classic Ebooks:
 - Nielson's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - easier
