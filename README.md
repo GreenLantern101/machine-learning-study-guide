@@ -10,7 +10,6 @@ A no-bullshit personal guide that assumes competence in multivariable calculus, 
 - [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
 - [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [Part 6: Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
-- [Part 7: Using GANs to make art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
 - [Deep Learning the stock market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
 
 ## Short video series
@@ -56,7 +55,7 @@ Blogs:
   - post on [Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
 
 Notes:
-- types of ANNs(articifial neural networks): RBF networks, convolutional networks, RNNs (recurrent neural networks)
+- types of ANNs(articifial neural networks): RBF networks, convolutional networks, RNNs (recurrent neural networks), GANs (Generative Adversarial Networks)
 
 Free Classic Ebooks:
 - Nielson's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - easier
@@ -69,9 +68,10 @@ Classes:
 - [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [Stanford CS224D - Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
-- [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) and [lecture videos](https://www.youtube.com/watch?v=yp9rwI_LZX8&list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 
-## List of resource lists & Misc.
+## Notes & Misc.
 - Todo: to get a deep understanding of algorithms, implement them from scratch (start w/ logistic regression & k-means, work to more complicated & interesting algorithms)
+- More data beats a smarter algorithm every time.
 - eg. [A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 - [Interview Questions](test.md)
