@@ -19,14 +19,14 @@ A no-bullshit personal guide that assumes competence in multivariable calculus, 
 ## Free Ebooks
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
-    - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+  - [GitHub repository](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
 
 ## Classic Books
 - Hastie, Tibshirani, and Friedman's [The Elements of Statistical Learning](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)
 - Bishop's [Pattern Recognition and Machine Learning](https://www.goodreads.com/book/show/55881.Pattern_Recognition_and_Machine_Learning)
+- Mitchell's [Machine Learning](https://www.goodreads.com/book/show/213030.Machine_Learning)
 - Kevin Murphy's [Machine Learning: A Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
 - David Barber's [Bayesian Reasoning and Machine Learning free pdf](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/020217.pdf)
-- Mitchell's [Machine Learning](https://www.goodreads.com/book/show/213030.Machine_Learning)
 
 ^^^ those five are recommended by [Xavier Amatriain](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) and others and are highly rated.
 
@@ -34,17 +34,17 @@ Others:
   - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130) and [Github](https://github.com/rasbt/python-machine-learning-book)
 
 ## Classes
-- [Udacity: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [Udacity: Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
-- [Andrew Ng's Coursera’s Machine Learning](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
-    - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
+- [Udacity UD120: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [Andrew Ng's Coursera Machine Learning](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
+  - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
-- [Paul G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
+- [Udacity UD262: Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 
 - University courses
-    - [CMU machine learning course - intro level](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-    - [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
-    - [Oxford - Machine Learning & Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+  - [CMU machine learning course - intro level](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+  - [Washington University - Paul G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
+  - [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
+  - [Oxford - Machine Learning & Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 ## Deep Learning
 Blogs:
@@ -58,7 +58,7 @@ Notes:
   1. General DL - RBF networks, feed-forward dense networks
   2. 1D recurrent models -  RNNs (recurrent neural networks), LSTMs
   3. Image stuff (2D/3D) - CNNs
-  4. Other GANs(Generative Adversarial Networks)
+  4. Other - GANs(Generative Adversarial Networks)
 
 Free Classic Ebooks:
 - Nielson's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - easier
@@ -76,5 +76,6 @@ Classes:
 ## Notes & Misc.
 - Todo: to get a deep understanding of algorithms, implement them from scratch (start w/ logistic regression & k-means, work to more complicated & interesting algorithms)
 - More data beats a smarter algorithm every time.
+- [Bayesian Machine Learning](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning)
 - eg. [A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 - [Interview Questions](test.md)
