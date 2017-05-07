@@ -3,10 +3,27 @@
 A no-bullshit personal guide that assumes competence in multivariable calculus, linear algebra, and machine-learning basics.
 [Advice from the author of Keras](https://www.quora.com/What-advice-would-you-give-to-people-studying-ML-DL-from-MOOCs-Udacity-Coursera-edx-MIT-Opencourseware-or-from-books-in-their-own-time/answer/Fran%C3%A7ois-Chollet)
 
-## Intro Machine learning examples
-- [Part 2: Generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
+## Libraries
+ML
+  - scikit-learn
+  - AirBnB's [aerosolve](https://github.com/airbnb/aerosolve)
+
+Neural networks/deep-learning
+  - [Keras](https://github.com/fchollet/keras) (high level)
+    - [Theano vs. TensorFlow backend](https://www.quora.com/Do-you-recommend-using-Theano-or-Tensor-Flow-as-Keras-backend)
+  - [TFLearn](https://github.com/tflearn/tflearn) - high-level API for deep-learning w/ TensorFlow
+  - Google's [Sonnet](https://github.com/deepmind/sonnet) - Tensorflow-based neural network library
+  - UC Berkeley's [Caffe](https://github.com/BVLC/caffe)
+  - Facebook's [Torch](http://torch.ch/) - losing popularity?
+  - [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano
+  - [nolearn](https://github.com/dnouri/nolearn) - scikit-learn compatible neural network library, wrapper around Lasagne
+
+Low-level math libraries:
+  - Google's [TensorFlow](https://github.com/tensorflow/tensorflow) (lower level)
+  - [Theano](https://github.com/Theano/Theano) (very low level)
+
+## Cool Examples
 - [Part 3: Deep Learning and Convolutional Neural Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
-- [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [Part 6: Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 - [Part 7: Using GANs to make art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
@@ -48,11 +65,18 @@ Others:
     - [Oxford - Machine Learning & Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 ## Deep Learning
-- [How to start learning deep learning](http://ofir.io/How-to-Start-Learning-Deep-Learning/)
+Blogs:
+- Christopher Olah's easy-to-understand [blog](http://colah.github.io/)
+- Andrej Karpathy's interesting [blog](http://karpathy.github.io/)
+  - post on [RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+  - post on [Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
+
+Notes:
+- types of ANNs(articifial neural networks): RBF networks, convolutional networks, RNNs (recurrent neural networks)
 
 Free Classic Ebooks:
-- Yoshua Bengio's [Deep Learning](http://www.deeplearningbook.org/)
-- Nielson's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- Nielson's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - easier
+- Yoshua Bengio's [Deep Learning](http://www.deeplearningbook.org/) - more advanced
 
 Classes:
 - [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
