@@ -9,11 +9,19 @@
   - [Theano vs. TensorFlow backend](https://www.quora.com/Do-you-recommend-using-Theano-or-Tensor-Flow-as-Keras-backend)
 - [TFLearn](https://github.com/tflearn/tflearn) - high-level API for deep-learning w/ TensorFlow
 - Google's [Sonnet](https://github.com/deepmind/sonnet) - Tensorflow-based neural network library
-- UC Berkeley's [Caffe](https://github.com/BVLC/caffe)
-- Facebook's [Torch](http://torch.ch/) - losing popularity?
-- [Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library to build and train neural networks in Theano
+- UC Berkeley's [Caffe](https://github.com/BVLC/caffe) -  ported AlexNet? implementation of fast convolutional nets to C and C++
+- ~~Facebook's [Torch](https://github.com/torch/torch7) - not as popular, written in Lua and C.~~
+- ~~[Lasagne](https://github.com/Lasagne/Lasagne) - Lightweight library for neural networks in Theano. Lower-level than Keras.~~
 - [nolearn](https://github.com/dnouri/nolearn) - scikit-learn compatible neural network library, wrapper around Lasagne
+- Microsoft's [CNTK](https://github.com/Microsoft/CNTK)
 
 #### Low-level math libraries:
-- Google's [TensorFlow](https://github.com/tensorflow/tensorflow) (lower level)
-- [Theano](https://github.com/Theano/Theano) (very low level)
+- Google's [TensorFlow](https://github.com/tensorflow/tensorflow) (lower level, created to replace Theano, but less performant for RNNs)
+- [Theano](https://github.com/Theano/Theano) (very low level, works with computational graphs)
+
+#### Notes
+- Most promising:
+  - Keras on top of Theano/Tensorflow
+  - nolearn on Lasagne on Theano
+- Keras is [much less LOC](https://gist.github.com/cburgdorf/e2fb46e5ad61ed7b9a29029c5cc30134) than TensorFlow.
+- Comparing Caffe, Torch, TensorFlow, Theano [here](https://www.youtube.com/watch?v=Qynt-TxAPOs)
