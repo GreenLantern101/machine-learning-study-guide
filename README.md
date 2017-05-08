@@ -14,7 +14,6 @@ A no-bullshit personal guide that assumes competence in multivariable calculus, 
 
 ## Short video series
 - [Neural Networks, Demystified](http://lumiverse.io/series/neural-networks-demystified)
-- [Imbalanced Data sets](https://www.youtube.com/watch?v=X9MZtvvQDR4)
 
 ## Free Ebooks
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
@@ -37,7 +36,6 @@ Others:
 - [Udacity UD120: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Andrew Ng's Coursera Machine Learning](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
   - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
-- [mathematicalmonk's Machine Learning tutorials](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
 - [Udacity UD262: Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 
 - University courses
