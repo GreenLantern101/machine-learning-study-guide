@@ -35,7 +35,6 @@ Others:
 ## Classes
 - [Andrew Ng's Coursera Machine Learning](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
   - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
-- [Udacity UD262: Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 
 - University courses
   - [CMU machine learning course - intro level](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
