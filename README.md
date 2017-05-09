@@ -1,4 +1,4 @@
-# Self-Study Guide for ML and Deep Learning
+﻿# Self-Study Guide for ML and Deep Learning
 
 A no-bullshit personal guide that assumes competence in multivariable calculus, linear algebra, and machine-learning basics.
 [Advice from the author of Keras](https://www.quora.com/What-advice-would-you-give-to-people-studying-ML-DL-from-MOOCs-Udacity-Coursera-edx-MIT-Opencourseware-or-from-books-in-their-own-time/answer/Fran%C3%A7ois-Chollet)
@@ -33,7 +33,6 @@ Others:
   - [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130) and [Github](https://github.com/rasbt/python-machine-learning-book)
 
 ## Classes
-- [Udacity UD120: Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Andrew Ng's Coursera Machine Learning](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
   - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [Udacity UD262: Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
