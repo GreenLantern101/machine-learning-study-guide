@@ -36,11 +36,11 @@ Others:
 - [Andrew Ng's Coursera Machine Learning](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
   - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 
-- University courses
-  - [CMU machine learning course - intro level](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
-  - [Washington University - Paul G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
-  - [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
-  - [Oxford - Machine Learning & Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+University classes:
+- [CMU machine learning course - intro level](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+- [Washington University - Paul G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
+- [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html)
+- [Oxford - Machine Learning & Deep Learning](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 ## Deep Learning
 Blogs:
@@ -49,29 +49,21 @@ Blogs:
   - post on [RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
   - post on [Deep Reinforcement Learning](http://karpathy.github.io/2016/05/31/rl/)
 
-Notes:
-- DL subcategories, as stated by [Andrew Ng's Nuts and Bolts of Applying Deep Learning talk](https://www.youtube.com/watch?v=F1ka6a13S9I):
-  1. General DL - RBF networks, feed-forward dense networks
-  2. 1D recurrent models -  RNNs (recurrent neural networks), LSTMs
-  3. Image stuff (2D/3D) - CNNs
-  4. Other - GANs(Generative Adversarial Networks)
-
 Free Classic Ebooks:
 - Nielson's [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - easier
 - Yoshua Bengio's [Deep Learning](http://www.deeplearningbook.org/) - more advanced
 
 Classes:
+- [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
 - [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 - [Udacity: Deep Learning](https://classroom.udacity.com/courses/ud730)
-- [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/schedule.html)
-- [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [Stanford's Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 - [Stanford CS224D - Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 - [Stanford CS231n - Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) and [lecture videos](https://www.youtube.com/watch?v=yp9rwI_LZX8&list=PL16j5WbGpaM0_Tj8CRmurZ8Kk1gEBc7fg)
 
 ## Notes & Misc.
-- Todo: to get a deep understanding of algorithms, implement them from scratch (start w/ logistic regression & k-means, work to more complicated & interesting algorithms)
-- More data beats a smarter algorithm every time.
+- To get a deep understanding of algorithms, implement them from scratch (start w/ logistic regression & k-means, work to more complicated & interesting algorithms)
+- More data > smarter algorithm
 - [Bayesian Machine Learning](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning)
 - eg. [A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 - [Interview Questions](test.md)
