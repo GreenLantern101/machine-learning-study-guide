@@ -12,9 +12,6 @@ A no-bullshit personal guide that assumes competence in multivariable calculus, 
 - [Part 6: Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 - [Deep Learning the stock market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
 
-## Short video series
-- [Neural Networks, Demystified](http://lumiverse.io/series/neural-networks-demystified)
-
 ## Free Ebooks
 - [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [Reinforcement Learning: An Introduction (2nd Edition)](http://ufal.mff.cuni.cz/~straka/courses/npfl114/2016/sutton-bookdraft2016sep.pdf)
